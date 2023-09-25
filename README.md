@@ -1,1 +1,3 @@
-Repo Session
+Starting to code today, so cool
+git fetch
+
